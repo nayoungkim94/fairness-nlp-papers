@@ -14,7 +14,9 @@ Author: [Nayoung Kim (Arizona State University)](https://nayoungkim94.github.io/
 
 ### Text Classification
 - []()
--
+- [Disentangling Dialect from Social Bias via Multitask Learning to Improve Fairness](https://arxiv.org/pdf/2406.09977), Spliethöver, Maximilian, Sai Nikhil Menon, and Henning Wachsmuth, ACL 2024
+
+
 -
 
 ### Generative AI
@@ -26,18 +28,18 @@ Author: [Nayoung Kim (Arizona State University)](https://nayoungkim94.github.io/
 - [An Empirical Analysis of Parameter-Efficient Methods for Debiasing Pre-Trained Language Models](https://arxiv.org/pdf/2306.04067)
 - [Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases](https://aclanthology.org/2023.acl-long.797.pdf)
 - [ChatGPT Based Data Augmentation for Improved Parameter-Efficient Debiasing of LLMs](https://arxiv.org/pdf/2402.11764)
+- [The Trade-off between Performance, Efficiency, and Fairness in Adapter Modules for Text Classification](https://arxiv.org/pdf/2405.02010), Bui, Minh Duc, and Katharina von der Wense, 2024
+
 
 ## Fairness Metrics
 
+### Statistical Fairness
+
+### Causal Fairness
+- [Addressing Both Statistical and Causal Gender Fairness in NLP Models]()
+
 ## Survey Papers
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA4NzIxMDddfQ==
+eyJoaXN0b3J5IjpbLTE5MDYxMDg2MDddfQ==
 -->
