@@ -39,6 +39,8 @@ Author: [Nayoung Kim (Arizona State University)](https://nayoungkim94.github.io/
 - [Addressing Both Statistical and Causal Gender Fairness in NLP Models](), Hannah Chen, Yangfeng Ji, David Evans, NAACL 2024 (Findings)
 
 ## Survey Papers
+- [Bias and Fairness in Large Language Models: A Survey](https://arxiv.org/pdf/2309.00770), Isabel O. Gallegos, Ryan A. Rossi, Joe Barrow, Md Mehrab Tanjim, Sungchul Kim, Franck Dernoncourt, Tong Yu, Ruiyi Zhang, Nesreen K. Ahmed, ArXiv 2024
+- []()
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE5MDYxMDg2MDddfQ==
