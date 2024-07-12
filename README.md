@@ -17,10 +17,12 @@ Author: [Nayoung Kim (Arizona State University)](https://nayoungkim94.github.io/
 
 **Generative AI**
 
-**Parameter-Efficient Fine-Tuning (PEFT)**
-- [Parameter-efficient Modularised Bias Mitigation via AdapterFusion]()
-- [PEFTDebias : Capturing debiasing information using PEFTs]()
-
+**Parameter-Efficient Debiasing**
+- [Parameter-efficient Modularised Bias Mitigation via AdapterFusion](https://arxiv.org/pdf/2302.06321)
+- [PEFTDebias : Capturing debiasing information using PEFTs](https://arxiv.org/pdf/2312.00434)
+- [An Empirical Analysis of Parameter-Efficient Methods for Debiasing Pre-Trained Language Models](https://arxiv.org/pdf/2306.04067)
+- [Prompt Tuning Pushes Farther, Contrastive Learning Pulls Closer: A Two-Stage Approach to Mitigate Social Biases](https://aclanthology.org/2023.acl-long.797.pdf)
+- [ChatGPT Based Data Augmentation for Improved Parameter-Efficient Debiasing of LLMs](https://arxiv.org/pdf/2402.11764)
 
 ### Fairness Metrics
 
@@ -35,5 +37,5 @@ Author: [Nayoung Kim (Arizona State University)](https://nayoungkim94.github.io/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTczMzM4OTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMjI4MTA2NjJdfQ==
 -->
